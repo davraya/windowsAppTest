@@ -1,0 +1,5 @@
+C:\Users\david\Desktop\WinFormsApp1\WinFormsApp1\bin\publish\WinFormsApp1.exe
+C:\Users\david\Desktop\WinFormsApp1\WinFormsApp1\bin\publish\WinFormsApp1.dll
+C:\Users\david\Desktop\WinFormsApp1\WinFormsApp1\bin\publish\WinFormsApp1.deps.json
+C:\Users\david\Desktop\WinFormsApp1\WinFormsApp1\bin\publish\WinFormsApp1.runtimeconfig.json
+C:\Users\david\Desktop\WinFormsApp1\WinFormsApp1\bin\publish\WinFormsApp1.pdb
